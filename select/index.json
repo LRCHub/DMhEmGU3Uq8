@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ごめんなさい",
+  "base_artist": "NEE",
+  "createdAt": "2025-12-02T11:55:30.715502Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ごめんなさい",
+      "artist": "BARBEE BOYS",
+      "has_synced": true,
+      "path": "select/01_ごめんなさい_BARBEE_BOYS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ごめんなさい",
+      "artist": "NEE",
+      "has_synced": false,
+      "path": "select/pl_01_ごめんなさい_NEE.txt"
+    }
+  ]
+}
